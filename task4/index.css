@@ -1,0 +1,11 @@
+body {
+    background: black;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.picture {
+    width: 600px;
+    height: 400px;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "first-project-Rollup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "keywords": ["rollup"],
+  "author": "Nazar Kovtun",
+  "license": "ISC"
+}
